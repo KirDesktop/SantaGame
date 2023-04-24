@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 6dd6cc02875193b4e882ec67184005a0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2746409943546674735
+    second: half ground@4x_0
+  - first:
+      213: -5171632028147632823
+    second: half ground@4x_1
+  - first:
+      213: -427221512643974712
+    second: half ground@4x_2
+  - first:
+      213: 7489801587689264356
+    second: half ground@4x_3
+  - first:
+      213: 636863311803724295
+    second: half ground@4x_4
+  - first:
+      213: 571174008105364922
+    second: half ground@4x_5
+  - first:
+      213: -100102527024711847
+    second: half ground@4x_6
+  - first:
+      213: -812453168260661961
+    second: half ground@4x_7
+  - first:
+      213: -2380150145891701114
+    second: half ground@4x_8
+  - first:
+      213: 8250289529325819508
+    second: half ground@4x_9
+  - first:
+      213: -7692643036723806957
+    second: half ground@4x_10
+  - first:
+      213: 4635226328493633194
+    second: half ground@4x_11
+  - first:
+      213: -4831500998531502020
+    second: half ground@4x_12
+  - first:
+      213: -1497622113727154437
+    second: half ground@4x_13
+  - first:
+      213: -4829295107274678845
+    second: half ground@4x_14
+  - first:
+      213: 3713816564180987035
+    second: half ground@4x_15
+  - first:
+      213: 3848089055927864025
+    second: half ground@4x_16
+  - first:
+      213: 2812216829994014494
+    second: half ground@4x_17
+  - first:
+      213: 5581773694313639052
+    second: half ground@4x_18
+  - first:
+      213: -7689311881519534062
+    second: half ground@4x_19
+  - first:
+      213: -7867036673623135386
+    second: half ground@4x_20
+  - first:
+      213: 5858383211888578858
+    second: half ground@4x_21
+  - first:
+      213: 2346915054597184598
+    second: half ground@4x_22
+  - first:
+      213: 7696332403178980339
+    second: half ground@4x_23
+  - first:
+      213: -7638626608287506548
+    second: half ground@4x_24
+  - first:
+      213: -3803638162229615776
+    second: half ground@4x_25
+  - first:
+      213: 3236843754007767868
+    second: half ground@4x_26
+  - first:
+      213: -6988327067273872319
+    second: half ground@4x_27
+  - first:
+      213: 2267523850568900344
+    second: half ground@4x_28
+  - first:
+      213: -8653682368185931320
+    second: half ground@4x_29
+  - first:
+      213: 1396801885243134094
+    second: half ground@4x_30
+  - first:
+      213: 5454058264102115944
+    second: half ground@4x_31
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: half ground@4x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d1cc4b15bac2e9d0800000000000000
+      internalID: -2746409943546674735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9453a35221caa38b0800000000000000
+      internalID: -5171632028147632823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9637a3c44321af0800000000000000
+      internalID: -427221512643974712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e410608cde11f760800000000000000
+      internalID: 7489801587689264356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7023a8ecec796d800800000000000000
+      internalID: 636863311803724295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd6e02fbb73de700800000000000000
+      internalID: 571174008105364922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957b293384d5c9ef0800000000000000
+      internalID: -100102527024711847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 769
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dbe25e52699b4f0800000000000000
+      internalID: -812453168260661961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ee70a8d0208fed0800000000000000
+      internalID: -2380150145891701114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47617917d9aee7270800000000000000
+      internalID: 8250289529325819508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31df13c5aed3e3590800000000000000
+      internalID: -7692643036723806957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaea66b89c1a35040800000000000000
+      internalID: 4635226328493633194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30b592b07f03fcb0800000000000000
+      internalID: -4831500998531502020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf6f58f4f90673be0800000000000000
+      internalID: -1497622113727154437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd5c57cfa5eafcb0800000000000000
+      internalID: -4829295107274678845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 513
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9c28fc0d702a8330800000000000000
+      internalID: 3713816564180987035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da06aabb98276530800000000000000
+      internalID: 3848089055927864025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e171b2f9e40070720800000000000000
+      internalID: 2812216829994014494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c2f2af991767d40800000000000000
+      internalID: 5581773694313639052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21076de55931a4590800000000000000
+      internalID: -7689311881519534062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66be8b1a3dba2d290800000000000000
+      internalID: -7867036673623135386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a211bbefd782d4150800000000000000
+      internalID: 5858383211888578858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c1843cecae19020800000000000000
+      internalID: 2346915054597184598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 257
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3cfc43b8ddeca60800000000000000
+      internalID: 7696332403178980339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f1d2922952ef590800000000000000
+      internalID: -7638626608287506548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0632f267e33c63bc0800000000000000
+      internalID: -3803638162229615776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b2317ae349bec20800000000000000
+      internalID: 3236843754007767868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cb4ecde89740f90800000000000000
+      internalID: -6988327067273872319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe92e0adecd77f10800000000000000
+      internalID: 2267523850568900344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9673d3cb1f7e780800000000000000
+      internalID: -8653682368185931320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80538ff9ef626310800000000000000
+      internalID: 1396801885243134094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: half ground@4x_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86a17182815b0bb40800000000000000
+      internalID: 5454058264102115944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      half ground@4x_19: -7689311881519534062
+      half ground@4x_17: 2812216829994014494
+      half ground@4x_23: 7696332403178980339
+      half ground@4x_13: -1497622113727154437
+      half ground@4x_14: -4829295107274678845
+      half ground@4x_22: 2346915054597184598
+      half ground@4x_20: -7867036673623135386
+      half ground@4x_21: 5858383211888578858
+      half ground@4x_2: -427221512643974712
+      half ground@4x_3: 7489801587689264356
+      half ground@4x_15: 3713816564180987035
+      half ground@4x_1: -5171632028147632823
+      half ground@4x_16: 3848089055927864025
+      half ground@4x_27: -6988327067273872319
+      half ground@4x_29: -8653682368185931320
+      half ground@4x_7: -812453168260661961
+      half ground@4x_26: 3236843754007767868
+      half ground@4x_28: 2267523850568900344
+      half ground@4x_0: -2746409943546674735
+      half ground@4x_31: 5454058264102115944
+      half ground@4x_8: -2380150145891701114
+      half ground@4x_10: -7692643036723806957
+      half ground@4x_6: -100102527024711847
+      half ground@4x_11: 4635226328493633194
+      half ground@4x_5: 571174008105364922
+      half ground@4x_24: -7638626608287506548
+      half ground@4x_9: 8250289529325819508
+      half ground@4x_25: -3803638162229615776
+      half ground@4x_12: -4831500998531502020
+      half ground@4x_30: 1396801885243134094
+      half ground@4x_4: 636863311803724295
+      half ground@4x_18: 5581773694313639052
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
